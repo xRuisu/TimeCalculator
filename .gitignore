@@ -1,0 +1,8 @@
+# Ignore the bin directory
+bin/
+
+# Ignore log files
+logs/
+
+# Ignore the .settings directory 
+.settings/
