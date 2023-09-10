@@ -4,8 +4,8 @@ public class TimeCalculator extends ProgramController {
 
 	public static void main(String[] args) {
 
-		var dc = new TimeCalculator();
-		dc.onEnable();
+		var tc = new TimeCalculator();
+		tc.onEnable();
 	}
 
 	@Override

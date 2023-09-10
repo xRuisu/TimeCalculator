@@ -34,11 +34,11 @@ public class Calc implements Calculatable {
 				println("Invalid Input! Please enter a number or 'print'.");
 			}
 		}
-		//Prints data to console too.
+		//Prints data to the console.
 		print("Report finished ->: " + currentDateAndTime() + "\n"
 				+ "Time Log: " + hours + " Hours " + minutes + " Minutes " +
 				"\n" + "-> Thanks for using TimeCalc! ");
-		//Sets whole report to a single string which is then written to file.
+		//Sets whole report to a single string which is then written to a file.
 		setReport("Report finished ->: " + currentDateAndTime() + "\n"
 				+ "Time Log: " + hours + " Hours " + minutes + " Minutes " +
 				"\n" + "-> Thanks for using TimeCalc! ");
