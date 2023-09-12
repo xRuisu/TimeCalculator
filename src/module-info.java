@@ -1,2 +1,2 @@
-module DriveCalc_V3 {
+module TimeCalculator {
 }
