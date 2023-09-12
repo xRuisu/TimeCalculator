@@ -10,7 +10,7 @@ public class TimeCalculator extends ProgramController {
 
 	@Override
 	void onEnable() {
-		System.out.println("[ v ]>: Simple Driving Calculator :<[ v ]");
+		System.out.println("[ v ]>: Simple Time Addition Calculator :<[ v ]");
 		System.out.flush();
 		var calculator = new Calc();
 		calculator.calculate();

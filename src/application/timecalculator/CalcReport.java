@@ -7,7 +7,7 @@ import java.io.IOException;  // Import the IOException class to handle errors
 public class CalcReport {
 
 	//Gets users desktop destination
-	private static String sysDest = System.getProperty("user.home") + "/Desktop//DrivingReport.txt";
+	private static String sysDest = System.getProperty("user.home") + "/Desktop//TimeReport.txt";
 
 	//Handles both methods in one.
 	public static void fileReport() {
