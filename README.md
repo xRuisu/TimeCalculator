@@ -1,4 +1,4 @@
-# TimeCalculator
+# Time Calculator
 Simple calculator that adds various minutes to return the total time calculated.
 
 This is very basic code that started as a "Driving Calculator" later renamed to "Time Calculator".
