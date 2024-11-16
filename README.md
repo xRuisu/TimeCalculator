@@ -11,10 +11,11 @@ All I had to do was continuously enter all the time into the program, type "prin
 and then get the result of all the time recorded, so that I can also find out how many hours
 of driving left were needed.
 
-I uploaded this project to help showcase how my coding has progressed. I'm a self-study student
-who has been messing with code since I was 12, however too it more seriously around 20 years old.
+I uploaded this project to help showcase my coding progress. I'm a self-study student
+who has been messing with code since I was 12, became a hobby around 16 years old, and finally
+took it more serously around 20 years old.
 
-Despite not having college education, I'm considerably happy with the progress I've made
-and I'm still very determined to further my self-journey in programming and showcasing my skills in IT.
+Despite not having a college education, I'm considerably happy with the progress I've made
+and I'm still very determined to further my self-learning journey in programming and showcasing my skills in IT.
 
-This was my very first functional java coding project I started after feeling confident in my studies.
+This was my very first functional java coding program I started after feeling confident in my studies.
