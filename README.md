@@ -13,7 +13,7 @@ of driving left were needed.
 
 I uploaded this project to help showcase my coding progress. I'm a self-study student
 who has been messing with code since I was 12, became a hobby around 16 years old, and finally
-took it more serously around 20 years old.
+took it more seriously around 20 years old.
 
 Despite not having a college education, I'm considerably happy with the progress I've made
 and I'm still very determined to further my self-learning journey in programming and showcasing my skills in IT.
